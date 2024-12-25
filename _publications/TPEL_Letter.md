@@ -4,7 +4,7 @@ title: "Simplified Analytical Modeling of Reflected Wave Transients in Cable-Con
 collection: publications
 type: 'journal'
 permalink: /publication/TPEL_Letter
-excerpt: 'This article presents simplified lumped Differential Mode (DM) models for estimating slew rates (dv/dt and di/dt) and peaks of reflected wave transients in two-level motor drive with output reactor.'
+excerpt: 'This article presents a simplified lumped Differential Mode (DM) model for estimating slew rates (dv/dt and di/dt) and peaks of reflected wave transients in two-level motor drive with output reactor.'
 date: 2024-07-04
 venue: 'IEEE Transactions on Power Electronics'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10584144'
