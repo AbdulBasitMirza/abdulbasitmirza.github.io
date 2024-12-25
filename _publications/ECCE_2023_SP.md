@@ -4,7 +4,7 @@ title: "Split Inductor Design Considerations for Split-Phase Three-Phase Inverte
 collection: publications
 type: 'conference'
 permalink: /publication/ECCE_2023_SP
-excerpt: 'This paper an analysis on the current spike phenomenon in Split-Phase topology and presents split-inductor design considerations.'
+excerpt: 'This paper presents an analysis on the current spike phenomenon in Split-Phase topology and subsequently proposes split-inductor design considerations.'
 date: 2023-12-29
 venue: '2023 IEEE Energy Conversion Congress and Exposition (ECCE)'
 paperurl: 'https://ieeexplore.ieee.org/document/10362470'
