@@ -3,7 +3,7 @@ layout: 'publication'
 title: "Lifelong Inverse Reinforcement Learning"
 collection: publications
 type: 'conference'
-permalink: /publication/2018-lifelong-inverse-rl
+permalink: /publication/a
 excerpt: 'We introduced the problem of lifelong learning from demonstrations, and created an efficient lifelong inverse reinforcement learning (ELIRL) algorithm.'
 date: 2018-12-01
 venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
