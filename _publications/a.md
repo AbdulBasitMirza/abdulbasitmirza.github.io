@@ -1,13 +1,13 @@
 ---
 layout: 'publication'
-title: "Lifelong Inverse Reinforcement Learning"
+title: "Investigation of Reflected Wave Phenomenon in SiC-based Two-Level Split-Phase Inverter-Fed Motor Drives"
 collection: publications
-type: 'conference'
-permalink: /publication/2018-lifelong-inverse-rl
+type: 'journal'
+permalink: /publication/TPEL
 excerpt: 'We introduced the problem of lifelong learning from demonstrations, and created an efficient lifelong inverse reinforcement learning (ELIRL) algorithm.'
-date: 2018-12-01
-venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
-paperurl: 'http://papers.nips.cc/paper/7702-lifelong-inverse-reinforcement-learning.pdf'
+date: 2025-03-01
+venue: 'IEEE Transactions on Power Electronics'
+paperurl: 'https://ieeexplore.ieee.org/document/10787086'
 authors: '<strong>Jorge Mendez-Mendez</strong>, Shashank Shivkumar, <a href="https://seas.upenn.edu/~eeaton/">Eric Eaton</a>'
 thumbnail: 'LifelongLfD.jpg'
 [//]: # (codeurl: 'https://github.com/Lifelong-ML/ELIRL.git')
