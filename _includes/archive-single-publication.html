@@ -39,11 +39,11 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> {{ post.type }},  <p>{{page.authors}}<br> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p style="margin-top:0px;">
             {% if post.paperurl %}
-              <a href="{{ post.paperurl }}">PDF</a>&nbsp;&nbsp;
+              <a href="{{ post.paperurl }}">Read Here</a>&nbsp;&nbsp;
             {% endif %}
             {% if post.codeurl %}
               <a href="{{ post.codeurl }}">Code</a>&nbsp;&nbsp;
