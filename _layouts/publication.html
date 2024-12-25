@@ -27,8 +27,8 @@ layout: default
       {% unless page.header.overlay_color or page.header.overlay_image %}
       <header>
         {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-        <p><i>{{ page.venue | default : "Preprint"}}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}<br>
-        {{page.authors}}<br>
+        <p>{{page.authors}}<br>
+          <i>{{ page.venue | default : "Preprint"}}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}<br>
           {% if page.paperurl %}
             <a href="{{ page.paperurl }}">Read Here</a>&nbsp;&nbsp;
           {% endif %}
