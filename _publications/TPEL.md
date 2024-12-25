@@ -4,11 +4,11 @@ title: "Investigation of Reflected Wave Phenomenon in SiC-based Two-Level Split-
 collection: publications
 type: 'journal'
 permalink: /publication/TPEL
-excerpt: 'We introduced the problem of lifelong learning from demonstrations, and created an efficient lifelong inverse reinforcement learning (ELIRL) algorithm.'
+excerpt: 'This article investigates Refelcted Wave Phenomenon in a Two-Level Split-Phase (2L-SP) cable-connected motor drive, similar to the conventional 2L motor driver with output reactor.'
 date: 2025-03-01
 venue: 'IEEE Transactions on Power Electronics'
 paperurl: 'https://ieeexplore.ieee.org/document/10787086'
-authors: '<strong>Jorge Mendez-Mendez</strong>, Shashank Shivkumar, <a href="https://seas.upenn.edu/~eeaton/">Eric Eaton</a>'
+authors: '<strong>AbdulBasitMirza</strong>, Kushan Choksi, Sama Salehi Vala, Ali Anwar and <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a>'
 thumbnail: 'LifelongLfD.jpg'
 [//]: # (codeurl: 'https://github.com/Lifelong-ML/ELIRL.git')
 [//]: # (videourl: 'https://youtu.be/Of5OyuOrePw')
