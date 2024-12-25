@@ -2,7 +2,7 @@
 title: "Investigation of Reflected Wave Phenomenon in SiC-based Two-Level Split-Phase Inverter-Fed Motor Drives"
 collection: publications
 category: manuscripts
-permalink: https://ieeexplore.ieee.org/document/10787086
+# permalink: https://ieeexplore.ieee.org/document/10787086
 excerpt: 'This articles investigates the performance of Two-Level Split-Phase Topology in mitigation Reflected Wave Phenomenon in SiC-based motor drives. The RWP is analyzed through both double pulse and continous testing.'
 date: 2025-03-01
 venue: 'IEEE Transactions on Power Electronics'
