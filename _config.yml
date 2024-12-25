@@ -12,7 +12,7 @@ title                    : "Abdul Basit Mirza"
 title_separator          : "-"
 name                     : &name "Abdul Basit Mirza"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://abdulbasitmirza.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
