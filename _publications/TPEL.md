@@ -4,7 +4,7 @@ title: "Investigation of Reflected Wave Phenomenon in SiC-based Two-Level Split-
 collection: publications
 type: 'journal'
 permalink: /publication/TPEL
-excerpt: 'This article investigates Refelcted Wave Phenomenon in a Two-Level Split-Phase (2L-SP) cable-connected motor drive, similar to the conventional 2L motor driver with output reactor.'
+excerpt: 'This article investigates Reflected Wave Phenomenon in a Two-Level Split-Phase (2L-SP) cable-connected motor drive, similar to the conventional 2L motor driver with output reactor.'
 date: 2025-03-01
 venue: 'IEEE Transactions on Power Electronics'
 paperurl: 'https://ieeexplore.ieee.org/document/10787086'
