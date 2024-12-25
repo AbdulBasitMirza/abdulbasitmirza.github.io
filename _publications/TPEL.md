@@ -8,7 +8,7 @@ excerpt: 'This article investigates Refelcted Wave Phenomenon in a Two-Level Spl
 date: 2025-03-01
 venue: 'IEEE Transactions on Power Electronics'
 paperurl: 'https://ieeexplore.ieee.org/document/10787086'
-authors: '<strong>AbdulBasitMirza</strong>, Kushan Choksi, Sama Salehi Vala, Ali Anwar and <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a>'
+authors: '<strong>Abdul Basit Mirza</strong>, Kushan Choksi, Sama Salehi Vala, Ali Anwar and <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a>'
 thumbnail: 'LifelongLfD.jpg'
 [//]: # (codeurl: 'https://github.com/Lifelong-ML/ELIRL.git')
 [//]: # (videourl: 'https://youtu.be/Of5OyuOrePw')
