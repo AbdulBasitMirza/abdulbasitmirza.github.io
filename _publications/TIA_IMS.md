@@ -19,9 +19,9 @@ author={Mirza, Abdul Basit and Emon, Asif Imran and Vala, Sama Salehi and Luo, F
 <br> journal={IEEE Transactions on Industry Applications},   
 <br> title={An E-Core Based Integrated Coupled Inductor for Interleaved Boost Converter}, 
 <br> year={2023},
-<br> volume={59}
+<br> volume={59},
 <br> number={4},
 <br> pages={4199-4214},
-doi={10.1109/TIA.2023.3258940}
+<br> doi={10.1109/TIA.2023.3258940}
 <br>}'
 ---
