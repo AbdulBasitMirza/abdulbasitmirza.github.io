@@ -4,20 +4,21 @@ title: "Lifelong Inverse Reinforcement Learning"
 collection: publications
 type: 'conference'
 permalink: /publication/a
-excerpt: 'We introduced the problem of lifelong learning from demonstrations, and created an efficient lifelong inverse reinforcement learning (ELIRL) algorithm.'
+excerpt: 'This articles investigates the performance of Two-Level Split-Phase Topology in mitigation Reflected Wave Phenomenon in SiC-based motor drives. The RWP is analyzed through both double pulse and continous testing.'
 date: 2018-12-01
-venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
-paperurl: 'http://papers.nips.cc/paper/7702-lifelong-inverse-reinforcement-learning.pdf'
-authors: '<strong>Jorge Mendez-Mendez</strong>, Shashank Shivkumar, <a href="https://seas.upenn.edu/~eeaton/">Eric Eaton</a>'
+venue: 'IEEE Transactions on Power Electronics'
+paperurl: 'https://ieeexplore.ieee.org/document/10787086'
+authors: '<strong>Abdul Basit Mirza</strong>, Kushan Choksi'
 thumbnail: 'LifelongLfD.jpg'
-codeurl: 'https://github.com/Lifelong-ML/ELIRL.git'
-videourl: 'https://youtu.be/Of5OyuOrePw'
-posterurl: 'https://www.seas.upenn.edu/~eeaton/papers/Mendez2018Lifelong-poster.pdf'
-abstract: 'Methods for learning from demonstration (LfD) have shown success in acquiring behavior policies by imitating a user. However, even for a single task, LfD may require numerous demonstrations. For versatile agents that must learn many tasks via demonstration, this process would substantially burden the user if each task were learned in isolation. To address this challenge, we introduce the novel problem of lifelong learning from demonstration, which allows the agent to continually build upon knowledge learned from previously demonstrated tasks to accelerate the learning of new tasks, reducing the amount of demonstrations required. As one solution to this problem, we propose the first lifelong learning approach to inverse reinforcement learning, which learns consecutive tasks via demonstration, continually transferring knowledge between tasks to improve performance.'
-bibtex: '@inproceedings{mendez2018lifelong,
-<br> author = {Mendez-Mendez, Jorge and Shivkumar, Shashank and Eaton, Eric},
-<br> booktitle = {Advances in Neural Information Processing Systems 31 (NeurIPS-18)},
-<br> title = {Lifelong Inverse Reinforcement Learning},
-<br> year = {2018}
-<br>}'
+abstract: 'Fast switching speed of Silicon Carbide (SiC) exacerbates Reflected Wave Phenomenon (RWP) in two-level (2L) Voltage Source Inverter (VSI)-based motor drives, causing motor side overvoltage and drive side overcurrent. The 2L split-phase (2L-SP) topology shows prospects of alleviating RWP due to its lower output dv/dt facilitated by split-inductors which also serve as an output reactor. This article explores RWP in a 2L-SP-based motor drive and compares it with the 2L with an output reactor, denoted as 2L-LF. For the study, a 2L, 2L-LF and 2L-SP configurable 18 kVA SiC-based prototype is developed and interfaced to an emulated motor load through a bundled shielded cable. At first, simplified lumped Differential Mode (DM) equivalent circuits are derived for modeling RWP transients in 2L-LF and 2L-SP drives. Subsequently, RWP is investigated through Double Pulse Tests (DPT) for various cable lengths, reactor (2L-LF), and split inductor (2L-SP) values. Results show that 2L-SP exhibits lower RWP for longer cables, achieving up to 68 % and 73 % reduction in overvoltage and overcurrent amplitudes for an 8 m cable. An anomalous rising overvoltage pattern for short cables is observed for both drive configurations and analyzed using proposed DM equivalent circuits. Further, from a switching performance standpoint, split-inductors in 2L-SP decouple load and complementary cell's parasitics from the device during switching, achieving 17 % lower switching loss than 2L-LF. Following the DPTs, continuous three-phase tests are performed for 8 m cable for both drive configurations. The 2L-SP drive achieves up to 60 % and 74 % reduction in overvoltage and overcurrent amplitudes than 2L-LF. Overall, 2L-SP outperforms 2L-LF in mitigating RWP in SiC-based 2L VSI motor drives.'
+bibtex: '@ARTICLE{10787086,
+  author={Mirza, Abdul Basit and Choksi, Kushan and Vala, Sama Salehi and Anwar, Ali and Luo, Fang},
+  journal={IEEE Transactions on Power Electronics}, 
+  title={Investigation of Reflected Wave Phenomenon in SiC-based Two-Level Split-Phase Inverter-Fed Motor Drives}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-19},
+  keywords={Silicon carbide;Motors;Filters;Voltage control;Switches;Inductors;Motor drives;Transient analysis;Switching loss;MOSFET;Auxiliary  $L$  filter;drive-side overcurrent; $\text{d}v/\text{d}t$  profiling;motor-side overvoltage;reflected wave phenomenon (RWP);silicon carbide (SiC);split-phase topology (2L-SP)},
+  doi={10.1109/TPEL.2024.3514096}}'
 ---
