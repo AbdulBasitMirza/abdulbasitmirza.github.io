@@ -48,14 +48,14 @@ Conference Papers
   {% endif %}
 {% endfor %}
 
-Workshop Papers
------
+[//]: # (Workshop Papers)
+[//]: # (-----)
 
-{% for post in site.publications reversed %}
-  {% if post.type == 'workshop' %}
-    {% include archive-single-publication.html %}
-  {% endif %}
-{% endfor %}
+[//]: # ({% for post in site.publications reversed %})
+[//]: # (  {% if post.type == 'workshop' %})
+[//]: # (    {% include archive-single-publication.html %})
+[//]: # (  {% endif %})
+[//]: # ({% endfor %})
 
 
 Theses
