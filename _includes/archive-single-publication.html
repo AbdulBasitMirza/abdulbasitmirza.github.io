@@ -41,7 +41,8 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }},  <p>{{page.authors}}<br> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-    <p style="margin-top:0px;">{{post.authors}}<br>       
+    <p style="margin-top:0px;">{{post.authors}}<br>
+      <i>{{ post.venue | default: "Preprint" }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}<br>
             {% if post.paperurl %}
               <a href="{{ post.paperurl }}">Read Here</a>&nbsp;&nbsp;
             {% endif %}
@@ -55,9 +56,9 @@
               <a href="{{ post.posterurl }}">Poster</a>&nbsp;&nbsp;
             {% endif %}
             <br>
-            <i>{{ post.venue | default: "Preprint" }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}<br>
+            <br>
             {% if post.excerpt %}
-              {<br>{ post.excerpt }}
+              {{ post.excerpt }}
             {% endif %}
           </p>
         {% elsif post.date %}
