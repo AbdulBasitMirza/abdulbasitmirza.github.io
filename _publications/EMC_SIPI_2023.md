@@ -4,7 +4,7 @@ title: "Investigation of Common-Mode EMI in Three-Phase Split-Phase Inverter"
 collection: publications
 type: 'conference'
 permalink: /publication/EMC_SIPI_2023
-excerpt: 'This paper investigates conducted CM EMI emission of a SiC-based 2L-SP three-phase inverter with SPWM.'
+excerpt: 'This paper investigates conducted CM EMI emission of a SiC-based Two-Level Split-Phase (2L-SP) three-phase inverter with SPWM.'
 date: 2023-09-12
 venue: '2023 IEEE Symposium on Electromagnetic Compatibility & Signal/Power Integrity (EMC+SIPI)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10241575'
