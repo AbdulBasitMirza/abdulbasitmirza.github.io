@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-# (<span style="color:red">**I am recruting highly motivated PhD students to work with me starting Fall '25. If your research interests align with mine, please apply to the [ECE])
-# ((https://www.stonybrook.edu/commcms/electrical/graduate/admissions.php) or [CS](https://www.cs.stonybrook.edu/admissions/Graduate-Program) PhD program at Stony Brook.**</span>)
+[//]: # ( (<span style="color:red">**I am recruting highly motivated PhD students to work with me starting Fall '25. If your research interests align with mine, please apply to the [ECE]))
+[//]: # ( ((https://www.stonybrook.edu/commcms/electrical/graduate/admissions.php) or [CS](https://www.cs.stonybrook.edu/admissions/Graduate-Program) PhD program at Stony Brook.**</span>))
 
 
 I am a Lead Power Electronics Engineer at [Eaton Research Labs (ERL)](https://www.eaton.com/us/en-us/company/research-and-development.html), located in Menomonee Falls, WI, USA. I obtained my Ph.D. and Master's degrees from the Spellman High Voltage Power Electroncis Laboratory (SHVPEL) at the [Stony Brook University](https://www.stonybrook.edu), where I was advised by [Prof. Fang Luo](https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang). I previously obtained my B.Sc. degree in Electrical Engineering with Honours from [University of Engineering and Technology, Lahore](https://www.uet.edu.pk/home/) in Lahore, Pakistan.
