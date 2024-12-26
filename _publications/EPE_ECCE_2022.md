@@ -6,7 +6,7 @@ type: 'conference'
 permalink: /publication/EPE_ECCE_2022
 excerpt: 'This paper extends the concept of Digital Twin for health monitoring of DC-DC converters and analyzes the performance of Particle Swarm Optimization (PSO) and Genetic Algorithm (GA).'
 date: 2022-10-17
-venue: '2022 24th European Conference on Power Electronics and Applications (EPE'22 ECCE Europe)'
+venue: '2022 24th European Conference on Power Electronics and Applications (EPE&#39;22 ECCE Europe)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9907060'
 authors: '<strong>Abdul Basit Mirza</strong>, Kushan Choksi, Sama Salehi Vala, Radha Krishna Moorthy, Madhu Sudhan Chinthavali and <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a>'
 thumbnail: 'LifelongLfD.jpg'
