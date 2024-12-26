@@ -4,11 +4,11 @@ title: "Hardware Design and Implementation of a 75 kVA 3-D Integrated Intelligen
 collection: publications
 type: 'conference'
 permalink: /publication/APEC_2023_IPS
-excerpt: 'This paper presents the hardware design and validation of a SiC-based 75 kVA grid interface power converter for the Intelligent Power Stage (IPS) concept, proposed by ORNL.'
+excerpt: 'This paper presents the hardware design and validation of a SiC-based 75 kVA grid interface power converter for the Intelligent Power Stage (IPS) concept, proposed by Oak Ridge National Laboratory (ORNL).'
 date: 2023-05-31
 venue: '2023 IEEE Applied Power Electronics Conference and Exposition (APEC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10131647'
-authors: '<strong>Abdul Basit Mirza</strong>, Asif Imran Emon, Kushan Choksi, Sama Salehi Vala, <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a>', Radha Krishna Moorthy and Madhu Sudhan Chinthavali'
+authors: '<strong>Abdul Basit Mirza</strong>, Asif Imran Emon, Kushan Choksi, Sama Salehi Vala, <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a>, Radha Krishna Moorthy and Madhu Sudhan Chinthavali'
 thumbnail: 'LifelongLfD.jpg'
 [//]: # (codeurl: 'https://github.com/Lifelong-ML/ELIRL.git')
 [//]: # (videourl: 'https://youtu.be/Of5OyuOrePw')
