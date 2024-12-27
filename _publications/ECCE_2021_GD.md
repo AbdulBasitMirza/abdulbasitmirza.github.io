@@ -9,7 +9,7 @@ date: 2021-11-16
 venue: '2021 IEEE Energy Conversion Congress and Exposition (ECCE)'
 paperurl: 'https://ieeexplore.ieee.org/document/9595515'
 authors: '<strong>Abdul Basit Mirza</strong>, Asif Imran Emon, Sama Salehi Vala and <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a>'
-thumbnail: 'LifelongLfD.jpg'
+thumbnail: 'ECCE_2021_GD.jpg'
 [//]: # (codeurl: 'https://github.com/Lifelong-ML/ELIRL.git')
 [//]: # (videourl: 'https://youtu.be/Of5OyuOrePw')
 [//]: # (posterurl: 'https://www.seas.upenn.edu/~eeaton/papers/Mendez2018Lifelong-poster.pdf')
