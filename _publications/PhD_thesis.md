@@ -4,7 +4,7 @@ title: "Electro-Mechanical-Thermal Co-Design and Side Effect Mitigation for a 75
 collection: publications
 type: 'thesis'
 permalink: /publication/PhD_thesis
-excerpt: 'This dissertation presents a MVDC Hybrid Circuit Breaker (HCB) that consists of an electro-mechanical switch (EMS) in series with the Voltage Injector Building Block (VIBB).'
+excerpt: 'This dissertation proposes a two-stage SiC-based 75 kVA Intelligent Grid-Interface Bidirectional Converter (IGIBC), comprising DC-DC and DC-AC power stages with standardized interconnects. Moreover, it also explores into design of integrated magnetic structures for interleaved boost converter and side effect mitigation in 2L SiC-based power electronic converters.'
 date: 2024-08-18
 venue: 'Stony Brook University'
 paperurl: 'https://www.proquest.com/docview/3119372755'
