@@ -9,7 +9,7 @@ date: 2024-04-05
 venue: 'IEEE Transactions on Components, Packaging and Manufacturing Technology'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10493136'
 authors: '<strong>Abdul Basit Mirza</strong>, Kushan Choksi, Austin Zhuo, Sama Salehi Vala and <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a>'
-thumbnail: 'LifelongLfD.jpg'
+thumbnail: 'TCPMT.jpg'
 [//]: # (codeurl: 'https://github.com/Lifelong-ML/ELIRL.git')
 [//]: # (videourl: 'https://youtu.be/Of5OyuOrePw')
 [//]: # (posterurl: 'https://www.seas.upenn.edu/~eeaton/papers/Mendez2018Lifelong-poster.pdf')
