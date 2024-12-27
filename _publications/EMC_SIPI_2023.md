@@ -9,7 +9,7 @@ date: 2023-09-12
 venue: '2023 IEEE Symposium on Electromagnetic Compatibility & Signal/Power Integrity (EMC+SIPI)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10241575'
 authors: '<strong>Abdul Basit Mirza</strong>, Abdul Muneeb, Sama Salehi Vala and <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a>'
-thumbnail: 'LifelongLfD.jpg'
+thumbnail: 'EMC_SIPI_2023.jpg'
 [//]: # (codeurl: 'https://github.com/Lifelong-ML/ELIRL.git')
 [//]: # (videourl: 'https://youtu.be/Of5OyuOrePw')
 [//]: # (posterurl: 'https://www.seas.upenn.edu/~eeaton/papers/Mendez2018Lifelong-poster.pdf')
