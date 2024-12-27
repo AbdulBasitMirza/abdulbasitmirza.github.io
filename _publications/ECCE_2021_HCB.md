@@ -3,7 +3,7 @@ layout: 'publication'
 title: "An Isolated Voltage Injection Based Hybrid Circuit Breaker for MVDC Applications"
 collection: publications
 type: 'conference'
-permalink: /publication/ECCE_2021_GD
+permalink: /publication/ECCE_2021_HCB
 excerpt: 'This paper presents design and validation of a MVDC Hybrid Circuit Breaker (HCB) that consists of an electro-mechanical switch (EMS) in series with a voltage injector building block (VIBB).'
 date: 2021-11-16
 venue: '2021 IEEE Energy Conversion Congress and Exposition (ECCE)'
