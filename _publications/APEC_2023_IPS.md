@@ -9,7 +9,7 @@ date: 2023-05-31
 venue: '2023 IEEE Applied Power Electronics Conference and Exposition (APEC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10131647'
 authors: '<strong>Abdul Basit Mirza</strong>, Asif Imran Emon, Kushan Choksi, Sama Salehi Vala, <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a>, Radha Krishna Moorthy and Madhu Sudhan Chinthavali'
-thumbnail: 'LifelongLfD.jpg'
+thumbnail: 'APEC_2023_IPS.jpg'
 [//]: # (codeurl: 'https://github.com/Lifelong-ML/ELIRL.git')
 [//]: # (videourl: 'https://youtu.be/Of5OyuOrePw')
 [//]: # (posterurl: 'https://www.seas.upenn.edu/~eeaton/papers/Mendez2018Lifelong-poster.pdf')
