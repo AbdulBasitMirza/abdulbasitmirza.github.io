@@ -9,7 +9,7 @@ date: 2023-12-29
 venue: '2023 IEEE Energy Conversion Congress and Exposition (ECCE)'
 paperurl: 'https://ieeexplore.ieee.org/document/10362470'
 authors: '<strong>Abdul Basit Mirza</strong>, Sama Salehi Vala, Gaurav Bhansali, Balaji Narayanasamay and <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a>'
-thumbnail: 'LifelongLfD.jpg'
+thumbnail: 'ECCE_2023_SP.jpg'
 [//]: # (codeurl: 'https://github.com/Lifelong-ML/ELIRL.git')
 [//]: # (videourl: 'https://youtu.be/Of5OyuOrePw')
 [//]: # (posterurl: 'https://www.seas.upenn.edu/~eeaton/papers/Mendez2018Lifelong-poster.pdf')
