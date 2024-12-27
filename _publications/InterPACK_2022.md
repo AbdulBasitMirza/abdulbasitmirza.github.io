@@ -9,7 +9,7 @@ date: 2022-12-07
 venue: 'ASME 2022 International Technical Conference and Exhibition on Packaging and Integration of Electronic and Photonic Microsystems'
 paperurl: 'https://asmedigitalcollection.asme.org/InterPACK/proceedings-abstract/InterPACK2022/V001T09A008/1153345'
 authors: '<strong>Abdul Basit Mirza</strong>, Xiaoqiang Xu, Asif Imran Emon, <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a> and Shikui Chen'
-thumbnail: 'LifelongLfD.jpg'
+thumbnail: 'InterPACK_2022.PNG'
 [//]: # (codeurl: 'https://github.com/Lifelong-ML/ELIRL.git')
 [//]: # (videourl: 'https://youtu.be/Of5OyuOrePw')
 [//]: # (posterurl: 'https://www.seas.upenn.edu/~eeaton/papers/Mendez2018Lifelong-poster.pdf')
