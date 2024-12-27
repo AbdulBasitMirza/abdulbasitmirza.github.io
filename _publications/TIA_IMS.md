@@ -9,7 +9,7 @@ date: 2023-03-20
 venue: 'IEEE Transactions on Industry Applications'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10076898'
 authors: '<strong>Abdul Basit Mirza</strong>, Asif Imran Emon, Sama Salehi Vala and <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a>'
-thumbnail: 'LifelongLfD.jpg'
+thumbnail: 'TIA_IMS.jpg'
 [//]: # (codeurl: 'https://github.com/Lifelong-ML/ELIRL.git')
 [//]: # (videourl: 'https://youtu.be/Of5OyuOrePw')
 [//]: # (posterurl: 'https://www.seas.upenn.edu/~eeaton/papers/Mendez2018Lifelong-poster.pdf')
