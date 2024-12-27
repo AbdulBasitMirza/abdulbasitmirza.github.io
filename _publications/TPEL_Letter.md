@@ -9,7 +9,7 @@ date: 2024-07-04
 venue: 'IEEE Transactions on Power Electronics'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10584144'
 authors: '<strong>Abdul Basit Mirza</strong>, Sama Salehi Vala, Kushan Choksi and <a href="https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang">Fang Luo</a>'
-thumbnail: 'LifelongLfD.jpg'
+thumbnail: 'TPEL_Letter.jpg'
 [//]: # (codeurl: 'https://github.com/Lifelong-ML/ELIRL.git')
 [//]: # (videourl: 'https://youtu.be/Of5OyuOrePw')
 [//]: # (posterurl: 'https://www.seas.upenn.edu/~eeaton/papers/Mendez2018Lifelong-poster.pdf')
