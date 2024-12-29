@@ -42,9 +42,9 @@ Work & Research Experience
   * Grid-Integrable Medium-Voltage Hybrid DC Circuit Breaker (HCB)
     * Designed a novel integrated E-Core magnetic structure with zero magnetic bias in normal operation.
 * March 2019 – December 2019: Site Engineer <br> 
-  Power Technology Research, Munich - Germany	(remote work)
+  China Electric Power Equipment and Technology, Lahore, Pakistan
   * ± 660 kV 800 km HVDC Transmission Line
-    * Sampling and inspection of material available at site.
+    * Sampling and material inspection on-site.
     * Managed quality control and safety issues on-site, ensuring compliance with technical designs and drawings.
 * September 2018 – February 2019: Research Analyst – Transmission and Distribution Systems  <br> 
   University of Arkansas, Fayetteville, AR, USA
@@ -86,6 +86,20 @@ Theses
     {% endif %}
   {% endfor %}</ul>
 
+Patents
+======
+* Co-inventor for the provisional patent application “System and Method for Digital Twin-based Health and Fault Monitoring for Power Electronics Systems” (filed from Stony Brook University)
+* Co-inventor for the provisional patent application “Integrated TMR-based Current Sensing Solution for Future High Power Density Power Electronics Systems” (filed from Stony Brook University)
+
+Teaching Experience
+======
+
+* Department of Electrical and Computer Engineering <br> 
+  Stony Brook University, Stony Brook, NY, USA
+  * ESE 451 Power Electronics (Spring 2023, Fall 2023 and Spring 2024)
+  * ESE 559 EMI in Power Electronics Converters: Generation, Propagation and Mitigation (Spring 2023 and Spring 2024)
+  * ESE 366/566 Hardware-Software Co-Design of Embedded Systems (Fall 2022)
+  * ESE 280 Embedded Microcontroller Systems Design I (Fall 2020)
 
 Service
 ======
