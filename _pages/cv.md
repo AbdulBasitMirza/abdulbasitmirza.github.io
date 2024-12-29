@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Electrical Engineering, Stony Brook University, NY, USA, 2024
+* M.Sc. in Electrical Engineering, Stony Brook University, NY, USA, 2022
+* B.Sc. in Electrical Engineering (Honours), University of Engineering and Technology Lahore, Lahore, Pakistan, 2018
 
 Work experience
 ======
