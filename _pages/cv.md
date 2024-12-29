@@ -18,7 +18,7 @@ Education
 Work & Research Experience
 ======
 
-* August 2024 – Present: Lead Engineer Power Electronics
+* August 2024 – Present: Lead Engineer Power Electronics <br><br> 
   Eaton Research Labs, Menomonee Falls, WI, USA
   * Technical lead for hardware development and testing of ongoing projects sponsored by government and business units.
   * Contribute to government proposal preparation.
