@@ -6,14 +6,14 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+See the full PDF version [here](/files/CVJorgeAMendez.pdf).
 {% include base_path %}
 
 Education
 ======
 * Ph.D. in Electrical Engineering, Stony Brook University, NY, USA, 2024
 * M.Sc. in Electrical Engineering, Stony Brook University, NY, USA, 2022
-* B.Sc. in Electrical Engineering (Honours), University of Engineering and Technology Lahore, Lahore, Pakistan, 2018
+* B.Sc. in Electrical Engineering (Honours), University of Engineering and Technology, Lahore, Pakistan, 2018
 
 Other Research Appointments
 ======
