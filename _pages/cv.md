@@ -101,7 +101,7 @@ Teaching Experience
   * ESE 366/566 Hardware-Software Co-Design of Embedded Systems (Fall 2022)
   * ESE 280 Embedded Microcontroller Systems Design I (Fall 2020)
 
-Service
+Professional Service
 ======
 
 Journal Article Reviewing
