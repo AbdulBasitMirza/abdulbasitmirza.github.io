@@ -18,12 +18,12 @@ Education
 Work & Research Experience
 ======
 
-* August 2024 – Present: Lead Engineer Power Electronics <br><br> 
+* August 2024 – Present: Lead Engineer Power Electronics <br> 
   Eaton Research Labs, Menomonee Falls, WI, USA
   * Technical lead for hardware development and testing of ongoing projects sponsored by government and business units.
   * Contribute to government proposal preparation.
   * Mentor junior staff and consult internal business and engineering customers.
-* May 2022 – August 2022: Power Electronics Intern
+* May 2022 – August 2022: Power Electronics Intern <br> 
   GE Global Research, Niskayuna, NY, USA
   * Reviewed MIL-461 and DO-160 Radiated Susceptibility (RS) test standards to define H and E-fields susceptibility test levels for gate driver.
   * Developed Design of Experiment (DoE) to perform RS testing of gate driver for WBG devices.
