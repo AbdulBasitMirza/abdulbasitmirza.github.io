@@ -45,7 +45,7 @@ Work & Research Experience
   Power Technology Research, Munich - Germany	(remote work)
   * ± 660 kV 800 km HVDC Transmission Line
     * Sampling and inspection of material available at site.
-    * Overseeing quality control and safety matters on site and ensuring that technical designs and drawings are followed correctly.
+    * Managed quality control and safety issues on-site, ensuring compliance with technical designs and drawings.
 * September 2018 – February 2019: Research Analyst – Transmission and Distribution Systems  <br> 
   University of Arkansas, Fayetteville, AR, USA
   * Distribution Transformers
