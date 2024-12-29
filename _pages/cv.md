@@ -78,14 +78,6 @@ Conference Papers
     {% endif %}
   {% endfor %}</ul>
 
-Workshop Papers
------
-  <ul>{% for post in site.publications reversed %}
-    {% if post.type == 'workshop' %}
-      {% include archive-single-publication-cv.html %}
-    {% endif %}
-  {% endfor %}</ul>
-
 Theses
 -----
   <ul>{% for post in site.publications reversed %}
