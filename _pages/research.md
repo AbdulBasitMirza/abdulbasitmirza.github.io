@@ -19,9 +19,6 @@ redirect_from:
 
 
 <head>
-    <title>Grid</title>
-    <style type="text/css">
-  
         #trending {
               margin: 0 auto;
               width:960px;
@@ -67,9 +64,7 @@ redirect_from:
 </head>
 <body>
 
-    <section id="trending">
-        <h1 class="heading"> TRENDING REVIEWS </h1>
-
+    <section>
           <div class="grid-container">
              <div class="grid">
                 <img src="/images/heat_sink1.jpg" width="400" height="400">
@@ -91,5 +86,4 @@ redirect_from:
                 <img src="/images/heat_sink1.jpg" width="400" height="400">
             </div>
           </div>
-
      </section>
