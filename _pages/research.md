@@ -23,7 +23,7 @@ PCB Power Loop Layout Optimization for TO-247 SiC Devices
 * Vertical power layout, a common approach to lower PCB parasitic inductance $$L_\text{PCB}$$ to limit voltage overshoot.
 * However, PCB parasitic inductance << TO-247 lead indutance &rarr; PCB capacitance $$C_\text{PCB}$$ becomes the dominant factor imapcting the switching transient.
 
-<img src="/images/pcb1.jpg" width="800" height="500">  
+<img src="/images/pcb1.jpg" width="800" height="400">  
 
 * Small-signal models, incorporating PCB capacitance, for ringing frequency estimation.
 
