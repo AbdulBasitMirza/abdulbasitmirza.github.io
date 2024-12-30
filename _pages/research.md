@@ -25,6 +25,6 @@ PCB Power Loop Layout Optimization for TO-247 SiC Devices
 
 <img src="/images/pcb1.jpg" width="800" height="400">  
 
-* Small-signal models, incorporating PCB capacitance, for ringing frequency estimation.
+* Small-signal models, incorporating $$C_\text{PCB}$$, for ringing frequency estimation.
 
 <img src="/images/pcb2.jpg" width="800" height="400">  
