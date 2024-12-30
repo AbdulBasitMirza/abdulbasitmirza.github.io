@@ -21,13 +21,7 @@ redirect_from:
 <head>
     <title>Grid</title>
     <style type="text/css">
-        .heading{
-              position:absolute;
-              font-size: 30px;
-              color:white;
-              background-color: black;
-          }
-
+  
         #trending {
               margin: 0 auto;
               width:960px;
@@ -78,41 +72,23 @@ redirect_from:
 
           <div class="grid-container">
              <div class="grid">
-               <a href="#">
                 <img src="/images/heat_sink1.jpg" width="400" height="400">
-                <p>RAMEN ZUNDO</p>
-               </a>
              </div>
              <div class="grid">
-               <a href="#">
                 <img src="/images/heat_sink1.jpg" width="400" height="400">
-                <p>RAMEN ZUNDO</p>
-               </a>
              </div>
              <div class="grid">
-               <a href="#">
                 <img src="/images/heat_sink1.jpg" width="400" height="400">
-                <p>RAMEN ZUNDO</p>
-               </a>
             </div>
 
              <div class="grid">
-               <a href="#">
                 <img src="/images/heat_sink1.jpg" width="400" height="400">
-                <p>RAMEN ZUNDO</p>
-               </a>
              </div>
              <div class="grid">
-               <a href="#">
                 <img src="/images/heat_sink1.jpg" width="400" height="400">
-                <p>RAMEN ZUNDO</p>
-               </a>
              </div>
              <div class="grid">
-               <a href="#">
                 <img src="/images/heat_sink1.jpg" width="400" height="400">
-                <p>RAMEN ZUNDO</p>
-               </a>
             </div>
           </div>
 
