@@ -21,10 +21,19 @@ redirect_from:
 PCB Power Loop Layout Optimization for TO-247 SiC Devices
 ======
 * Vertical power layout, a common approach to lower PCB parasitic inductance $$L_\text{PCB}$$ to limit voltage overshoot.
-* However, PCB parasitic inductance << TO-247 lead indutance &rarr; PCB capacitance $$C_\text{PCB}$$ becomes the dominant factor imapcting the switching transient.
+* However, PCB parasitic inductance $$<<$$ TO-247 lead indutance &rarr; PCB capacitance $$C_\text{PCB}$$ becomes the dominant factor imapcting the switching transient.
 
 <img src="/images/pcb1.jpg" width="800" height="400">  
 
 * Small-signal models, incorporating $$C_\text{PCB}$$, for ringing frequency estimation.
 
 <img src="/images/pcb2.jpg" width="800" height="400">  
+
+Simplified Analytical Modeling of Reflected Wave Transients in Two-Level Motor Drives with Output Reactor
+======
+* Output reactor, the common approach for reflected wave mitigation in cable-connected drives. 
+* However, for reflected wave estimation, the user has to resort to computationally expensive simulations.
+* A lumped circuit model based on dominant pole approximation proposed with closed form expressions for peak motor-side overvoltage and drive-side overcurrent, and slew-rates ($$\text{d}v/\text{d}t$$ and $$\text{d}i/\text{d}t$$).
+
+<img src="/images/reactor.jpg" width="800" height="400">  
+
