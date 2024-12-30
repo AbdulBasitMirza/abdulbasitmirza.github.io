@@ -17,5 +17,5 @@ redirect_from:
 * Cylindrical holes for heat dissipation, contributing to lower costs and simpler manufacturing.
 
 | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
+:-------------------------::-------------------------::-------------------------:
 |<img src="/images/heat_sink1.jpg" width="400" height="400"> |  <img src="/images/heat_sink1.jpg" width="400" height="400">|<img src="/images/heat_sink1.jpg" width="400" height="400">|
