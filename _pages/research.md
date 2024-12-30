@@ -8,9 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+<br>
+<br>
 
-3-D Converter-Level Packaging with TO-247 Package SiC Devices
+3-D Converter-Level Packaging with TO-247 Package SiC Devices 
 ======
-* 
+* Three-faced utilized heat sink for 75 kVA grid interface bi-directional converter, providing 35 % reduction in heat volume than 2-D layout.
+* Cylindrical holes for heat dissipation, contributing to lower costs and simpler manufacturing.
   
-
+<img src="images/heat_sink1.jpg" width="800" height="800">
