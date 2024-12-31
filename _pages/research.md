@@ -39,7 +39,8 @@ Simplified Analytical Modeling of Reflected Wave Transients in Two-Level Motor D
 
 Two-Level Split-Phase Topology for Enhanced Reflected Wave Suppression in Two-Level Cable Connected Drives
 ======
-* Output reactor in Two-Level (2L) drives lowers motor-side voltage's slew rate ($$\text{d}v/\text{d}t$$) with slight reduction on overvoltage peak.
-* Two-Level Split-Phase (2L-SP), similar structure as 2L, provides enhanced reflected wave suppression without additional hardware/control due to its lower output $$\text{d}v/\text{d}t$$.
+* Output reactor in Two-Level (2L) drives lowers the motor-side voltage's slew rate ($$\text{d}v/\text{d}t$$) with a slight reduction in overvoltage peaks.
+* Two-Level Split-Phase (2L-SP), which has a similar structure to 2L, provides enhanced reflected wave suppression without the need for additional hardware or control due to its lower output $$\text{d}v/\text{d}t$$.
+* Same power device count for both configurations if anti-parallel diode is used for 2L.
 
 <img src="/images/rwp_2LSP.jpg" width="800" height="400">  
