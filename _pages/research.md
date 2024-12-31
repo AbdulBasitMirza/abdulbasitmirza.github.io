@@ -12,7 +12,7 @@ redirect_from:
 
 3-D Converter-Level Packaging with TO-247 SiC Devices 
 ======
-* Three-faced utilized heat sink for 75 kVA grid interface bi-directional converter, providing 35 % reduction in heat volume than 2-D layout.
+* Three-faced utilized heat sink for a 75 kVA grid interface bi-directional converter, providing a 35 % reduction in heat volume compared to a 2-D layout.
 * Cylindrical holes for heat dissipation, facilitating cost-effective fabrication.
 
 <img src="/images/heat_sink.jpg" width="800" height="400">
@@ -20,7 +20,7 @@ redirect_from:
 PCB Power Loop Layout Optimization for TO-247 SiC Devices
 ======
 * Vertical power layout, a common approach to lower PCB parasitic inductance $$L_\text{PCB}$$ to limit voltage overshoot.
-* However, PCB parasitic inductance $$<<$$ TO-247 lead indutance &rarr; PCB capacitance $$C_\text{PCB}$$ becomes the dominant factor imapcting the switching transient.
+* However, PCB parasitic inductance $$<<$$ TO-247 lead inductance and PCB capacitance $$C_\text{PCB}$$ becomes the dominant factor impacting the switching transient.
 
 <img src="/images/pcb1.jpg" width="800" height="400">  
 
@@ -30,9 +30,9 @@ PCB Power Loop Layout Optimization for TO-247 SiC Devices
 
 Simplified Analytical Modeling of Reflected Wave Transients in Two-Level Motor Drives with Output Reactor
 ======
-* Output reactor, the common approach for reflected wave mitigation in cable-connected drives up to 300 ft. 
+* Output reactor, the standard approach for reflected wave mitigation in cable-connected drives up to 300 ft. 
 * However, for reflected wave estimation, the user has to resort to computationally expensive simulations.
-* A lumped circuit model based on dominant pole approximation proposed with closed form expressions for peak motor-side overvoltage and drive-side overcurrent, and slew-rates ($$\text{d}v/\text{d}t$$ and $$\text{d}i/\text{d}t$$).
+* A lumped circuit model based on dominant pole approximation proposed with closed-form expressions for peak motor-side overvoltage and drive-side overcurrent, and slew-rates ($$\text{d}v/\text{d}t$$ and $$\text{d}i/\text{d}t$$).
 
 <img src="/images/reactor.jpg" width="800" height="400">  
 
@@ -51,7 +51,7 @@ Non-Invasive Health Monitoring for DC-DC Converters
 
 <img src="/images/PSO_GA.jpg" width="800" height="400">
 
-* Practical implementation of DT-based health monitoring for four-phase interleaved converter of an grid-interface bidirectional converter.
+* Practical implementation of DT-based health monitoring for a four-phase interleaved converter of 75 kVA grid-interface bidirectional converter.
 
 <img src="/images/DT_health.jpg" width="800" height="400">
 
@@ -69,8 +69,8 @@ Partial Discharge Testing in Motors Fed by Voltage Source PWM Motor Drives
 
 Isolated Active Voltage Injection-Based MVDC Hybrid Circuit Breaker
 ======
-* Hybrid Circuit Breaker (HCB) comprising an electro-mechanical switch (EMS) in series with Voltage Injector Building Block (VIBB).
-* E-core-based integrated magnetic structure for injection purpose.
+* Hybrid Circuit Breaker (HCB), comprising an electro-mechanical switch (EMS) in series with Voltage Injector Building Block (VIBB).
+* E-core-based integrated magnetic structure for injection.
 * Miniscule post-fault interruption residual energy.
 
 <img src="/images/MVDC_HCB.jpg" width="800" height="400">
