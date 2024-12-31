@@ -51,7 +51,7 @@ Non-Invasive Health Monitoring for DC-DC Converters
 
 <img src="/images/PSO_GA.jpg" width="800" height="400">
 
-* Practical implementation of DT-based health monitoring for a four-phase interleaved converter of 75 kVA grid-interface bidirectional converter.
+* Practical implementation of DT-based health monitoring for a four-phase interleaved converter of a 75 kVA grid-interface bidirectional converter.
 
 <img src="/images/DT_health.jpg" width="800" height="400">
 
