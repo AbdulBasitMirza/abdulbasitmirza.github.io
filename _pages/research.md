@@ -44,6 +44,14 @@ Two-Level Split-Phase Topology for Enhanced Reflected Wave Suppression in Two-Le
 
 <img src="/images/rwp_2LSP.jpg" width="800" height="400">  
 
+Evaluation of Common Mode (CM) Conducted EMI in Two-Level Split-Phase Topology
+======
+* Output reactor in Two-Level (2L) drives lowers the motor-side voltage's slew rate ($$\text{d}v/\text{d}t$$) with a slight reduction in overvoltage peaks.
+* Two-Level Split-Phase (2L-SP), which has a similar structure to 2L, provides enhanced reflected wave suppression without the need for additional hardware or control due to its lower output $$\text{d}v/\text{d}t$$.
+* Same power device count for both configurations if anti-parallel diode is used for 2L.
+
+<img src="/images/rwp_2LSP.jpg" width="800" height="400">  
+
 Non-Invasive Health Monitoring for DC-DC Converters
 ======
 * Performance evaluation of Particle Swarm Optimization and Genetic Algorithms for Digital Twin (DT)-based health monitoring.
