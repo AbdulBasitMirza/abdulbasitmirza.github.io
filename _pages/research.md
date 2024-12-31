@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 <br>
-<br>
 
 3-D Converter-Level Packaging with TO-247 SiC Devices 
 ======
