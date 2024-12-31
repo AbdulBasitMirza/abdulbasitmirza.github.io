@@ -48,18 +48,23 @@ Non-Invasive Health Monitoring for DC-DC Converters
 ======
 * Performance evaluation of Particle Swarm Optimization and Genetic Algorithms for Digital Twin (DT)-based health monitoring.
 * Faster convergence with Genetic Algorithm.
+
 <img src="/images/PSO_GA.jpg" width="800" height="400">
+
 * Practical implementation of DT-based health monitoring for four-phase interleaved converter of an grid-interface bidirectional converter.
+
 <img src="/images/DT_health.jpg" width="800" height="400">
 
 Integrated Magnetics for Interleaved Boost Converter
 ======
 * Gapped E-core based structure with decoupled Common Mode (CM) and Differential Mode (DM) inductances.
+
 <img src="/images/e_core.jpg" width="800" height="400">
 
 Partial Discharge Testing in Motors Fed by Voltage Source PWM Motor Drives
 ======
 * Evaluation of PWM waveform characteristics on Partial Discharge Inception Voltage (PDIV) in twisted pairs at different pressures.
+  
 <img src="/images/PD.jpg" width="800" height="400">
 
 Isolated Active Voltage Injection-Based MVDC Hybrid Circuit Breaker
@@ -67,4 +72,5 @@ Isolated Active Voltage Injection-Based MVDC Hybrid Circuit Breaker
 * Hybrid Circuit Breaker (HCB) comprising an electro-mechanical switch (EMS) in series with Voltage Injector Building Block (VIBB).
 * E-core-based integrated magnetic structure for injection purpose.
 * Miniscule post-fault interruption residual energy.
+
 <img src="/images/MVDC_HCB.jpg" width="800" height="400">
