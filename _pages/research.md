@@ -57,6 +57,11 @@ Integrated Magnetics for Interleaved Boost Converter
 * Gapped E-core based structure with decoupled Common Mode (CM) and Differential Mode (DM) inductances.
 <img src="/images/e_core.jpg" width="800" height="400">
 
+Partial Discharge Testing in Motors (Twisted Pair)
+======
+* Evaluation of PWM waveform characteristics on Partial Discharge Inception Voltage (PDIV) in twisted pairs at different pressures.
+<img src="/images/PD.jpg" width="800" height="400">
+
 Isolated Active Voltage Injection-Based MVDC Hybrid Circuit Breaker
 ======
 * Hybrid Circuit Breaker (HCB) comprising an electro-mechanical switch (EMS) in series with Voltage Injector Building Block (VIBB).
