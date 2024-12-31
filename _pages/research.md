@@ -47,6 +47,7 @@ Two-Level Split-Phase Topology for Enhanced Reflected Wave Suppression in Two-Le
 Non-Invasive Health Monitoring for DC-DC Converters
 ======
 * Performance evaluation of Particle Swarm Optimization and Genetic Algorithms for Digital Twin (DT)-based health monitoring.
+* Faster convergence with Genetic Algorithm.
 <img src="/images/PSO_GA.jpg" width="800" height="400">
 * Practical implementation of DT-based health monitoring for four-phase interleaved converter of an grid-interface bidirectional converter.
 <img src="/images/DT_health.jpg" width="800" height="400">
