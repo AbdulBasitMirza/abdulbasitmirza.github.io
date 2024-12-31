@@ -31,9 +31,15 @@ PCB Power Loop Layout Optimization for TO-247 SiC Devices
 
 Simplified Analytical Modeling of Reflected Wave Transients in Two-Level Motor Drives with Output Reactor
 ======
-* Output reactor, the common approach for reflected wave mitigation in cable-connected drives. 
+* Output reactor, the common approach for reflected wave mitigation in cable-connected drives up to 300 ft. 
 * However, for reflected wave estimation, the user has to resort to computationally expensive simulations.
 * A lumped circuit model based on dominant pole approximation proposed with closed form expressions for peak motor-side overvoltage and drive-side overcurrent, and slew-rates ($$\text{d}v/\text{d}t$$ and $$\text{d}i/\text{d}t$$).
 
 <img src="/images/reactor.jpg" width="800" height="400">  
 
+Two-Level Split-Phase Topology for Enhanced Reflected Wave Suppression in Two-Level Cable Connected Drives
+======
+* Output reactor in Two-Level (2L) drives lowers motor-side voltage's slew rate ($$\text{d}v/\text{d}t$$) with slight reduction on overvoltage peak.
+* Two-Level Split-Phase (2L-SP), similar structure as 2L, provides enhanced reflected wave suppression without additional hardware/control due to its lower output $$\text{d}v/\text{d}t$$.
+
+<img src="/images/rwp_2LSP.jpg" width="800" height="400">  
