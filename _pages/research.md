@@ -36,7 +36,7 @@ Simplified Analytical Modeling of Reflected Wave Transients in Two-Level Motor D
 
 <img src="/images/reactor.jpg" width="800" height="400">  
 
-Two-Level Split-Phase Topology for Enhanced Reflected Wave Suppression in Two-Level Cable Connected Drives
+Two-Level Split-Phase Topology for Enhanced Reflected Wave Suppression in Two-Level Cable-Connected Drives
 ======
 * Output reactor in Two-Level (2L) drives lowers the motor-side voltage's slew rate ($$\text{d}v/\text{d}t$$) with a slight reduction in overvoltage peaks.
 * Two-Level Split-Phase (2L-SP), which has a similar structure to 2L, provides enhanced reflected wave suppression without the need for additional hardware or control due to its lower output $$\text{d}v/\text{d}t$$.
@@ -57,7 +57,7 @@ Non-Invasive Health Monitoring for DC-DC Converters
 
 Integrated Magnetics for Interleaved Boost Converter
 ======
-* Gapped E-core based structure with decoupled Common Mode (CM) and Differential Mode (DM) inductances.
+* Gapped E-core-based structure with decoupled Common Mode (CM) and Differential Mode (DM) inductances.
 
 <img src="/images/e_core.jpg" width="800" height="400">
 
