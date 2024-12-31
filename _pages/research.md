@@ -50,7 +50,7 @@ Evaluation of Common Mode (CM) Conducted EMI in Two-Level Split-Phase Topology
 * Two-Level Split-Phase (2L-SP), which has a similar structure to 2L, provides enhanced reflected wave suppression without the need for additional hardware or control due to its lower output $$\text{d}v/\text{d}t$$.
 * Same power device count for both configurations if anti-parallel diode is used for 2L.
 
-<img src="/images/rwp_2LSP.jpg" width="800" height="400">  
+<img src="/images/2L_SP_EMI.jpg" width="800" height="400">  
 
 Non-Invasive Health Monitoring for DC-DC Converters
 ======
