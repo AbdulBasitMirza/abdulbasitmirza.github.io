@@ -46,9 +46,9 @@ Two-Level Split-Phase Topology for Enhanced Reflected Wave Suppression in Two-Le
 
 Evaluation of Common Mode (CM) Conducted EMI in Two-Level Split-Phase Topology
 ======
-* Output reactor in Two-Level (2L) drives lowers the motor-side voltage's slew rate ($$\text{d}v/\text{d}t$$) with a slight reduction in overvoltage peaks.
-* Two-Level Split-Phase (2L-SP), which has a similar structure to 2L, provides enhanced reflected wave suppression without the need for additional hardware or control due to its lower output $$\text{d}v/\text{d}t$$.
-* Same power device count for both configurations if anti-parallel diode is used for 2L.
+* CM EMI modeling for 2L-SP topology.
+* Two CM voltage sources, compared with the standard 2L topology, exhibit alternating lower $$\text{d}v/\text{d}t$$ transitions, resulting in lower CM EMI.
+* Extent of CM EMI reduction in HF approximately linear with split inductance $$L_\text{d}t$$.
 
 <img src="/images/2L_SP_EMI.jpg" width="800" height="400">  
 
@@ -65,7 +65,7 @@ Non-Invasive Health Monitoring for DC-DC Converters
 
 Integrated Magnetics for Interleaved Boost Converter
 ======
-* Gapped E-core-based structure with decoupled Common Mode (CM) and Differential Mode (DM) inductances.
+* Gapped E-core-based structure with decoupled CM and DM inductances.
 
 <img src="/images/e_core.jpg" width="800" height="400">
 
