@@ -43,3 +43,10 @@ Two-Level Split-Phase Topology for Enhanced Reflected Wave Suppression in Two-Le
 * Same power device count for both configurations if anti-parallel diode is used for 2L.
 
 <img src="/images/rwp_2LSP.jpg" width="800" height="400">  
+
+Non-Invasive Health Monitoring for DC-DC Converters
+======
+* Performance evaluation of Particle Swarm Optimization and Genetic Algorithms for Digital Twin (DT)-based health monitoring.
+<img src="/images/PSO_GA.jpg" width="800" height="400">
+* Practical implementation of DT-based health monitoring for four-phase interleaved converter of an grid-interface bidirectional converter.
+<img src="/images/DT_health.jpg" width="800" height="400">
