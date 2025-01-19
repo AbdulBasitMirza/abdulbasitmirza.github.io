@@ -42,7 +42,7 @@ Work & Research Experience
   * Grid-Integrable Medium-Voltage Hybrid DC Circuit Breaker (HCB)
     * Designed a novel integrated E-Core magnetic structure with zero magnetic bias in normal operation.
 * March 2019 – December 2019: Site Engineer <br> 
-  China Electric Power Equipment and Technology, Lahore, Pakistan
+  Pak Matiari - Lahore Transmission Company Private Limited, Lahore, Pakistan
   * ± 660 kV 800 km HVDC Transmission Line
     * Sampling and material inspection on-site.
     * Managed quality control and safety issues on-site, ensuring compliance with technical designs and drawings.
