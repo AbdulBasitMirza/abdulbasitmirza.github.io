@@ -43,6 +43,7 @@ Work & Research Experience
     * Designed a novel integrated E-Core magnetic structure with zero magnetic bias in normal operation.
 * March 2019 – December 2019: Site Engineer <br> 
   Pak Matiari - Lahore Transmission Company Private Limited, Lahore, Pakistan
+  China Electric Power Equipment and Technology, State Grid Corporation of China (SGCC)
   * ± 660 kV 800 km HVDC Transmission Line
     * Sampling and material inspection on-site.
     * Managed quality control and safety issues on-site, ensuring compliance with technical designs and drawings.
