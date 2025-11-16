@@ -48,7 +48,7 @@ Evaluation of Common Mode (CM) Conducted EMI in Two-Level Split-Phase Topology
 ======
 * CM EMI modeling for 2L-SP topology.
 * Two CM voltage sources, compared with the standard 2L topology, exhibit alternating lower $$\text{d}v/\text{d}t$$ transitions, resulting in lower CM EMI.
-* Extent of CM EMI reduction in HF approximately linear with split inductance $$L_\text{S}$$.
+* Extent of CM EMI reduction in HF approximately linear with split inductance $$L_\text{s}$$.
 
 <img src="/images/2L_SP_EMI.jpg" width="800" height="400">  
 
