@@ -81,7 +81,7 @@ Conference Papers
 
 Webinars
 -----
-* [Reflected Wave Challenges and Mitigation in 2L SiC Motor Drives: Cable Modeling and Split-Phase Topology](https://resourcecenter.ieee-pels.org/education/webinars/pelsweb031325s)
+* [Reflected Wave Challenges and Mitigation in 2L SiC Motor Drives: Cable Modeling and Split-Phase Topology](https://resourcecenter.ieee-pels.org/education/webinars/pelsweb031325s), sponsored by IEEE-PELS TC3
 
 Theses
 -----
