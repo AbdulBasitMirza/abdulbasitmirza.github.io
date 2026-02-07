@@ -21,8 +21,15 @@ Work & Research Experience
 * August 2024 – Present: Lead Engineer Power Electronics <br> 
   Eaton Research Labs, Menomonee Falls, WI, USA
   * Technical lead for hardware development and testing of ongoing projects sponsored by government and business units.
-  * Contribute to government proposal preparation.
-  * Mentor junior staff and consult internal business and engineering customers.
+  * Simulate, design, and validate high-power AC/DC, DC/DC, and DC/AC power converter topologies using Silicon and Wide Bandgap (WBG) semiconductors (GaN, SiC).
+  * Perform multi-objective design optimization aimed at reducing semiconductor losses and minimizing passive component footprint. 
+  *	Support electro-mechanical-thermal co-design of compact high-power converter packaging through Finite Element Analysis (FEA).
+  *	Design high power PCBs optimized for minimal parasitics and reduced electromagnetic emissions for WBG-based power converters. 
+  *	Perform EMI modeling and analysis of power converters and design targeted EMI filters to ensure compliance and performance. 
+  *	Contribute to government proposal preparation.
+  *	Mentor junior staff and consult internal business and engineering customers.
+  *	Support building business relationships by presenting ideas and projects, participating in ideation events and acquiring resources and funding needed.
+  *	Participate in external open innovation events with universities and research institutions. 
 * May 2022 – August 2022: Power Electronics Intern <br> 
   GE Global Research, Niskayuna, NY, USA
   * Reviewed MIL-461 and DO-160 Radiated Susceptibility (RS) test standards to define H and E-fields susceptibility test levels for gate driver.
