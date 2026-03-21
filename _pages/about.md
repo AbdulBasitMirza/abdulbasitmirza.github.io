@@ -18,7 +18,7 @@ I am interested in modular, heterogeneous integrated architectures for Wide‑Ba
 
 Heterogeneous integration is fundamentally a multi‑physics problem that encompasses electrical, mechanical, thermal, and embedded‑system design aspects. I am interested in the electro‑thermal co‑design space, with a primary focus on converter topologies, architectural optimization, and addressing exacerbated side effects of fast switching ($$\text{d}v/\text{d}t$$ and $$\text{d}i/\text{d}t$$) such as electromagnetic interference (EMI), partial discharge (PD), and high‑frequency interactions. My goal is to develop architectures that inherently exhibit low side effects while achieving high power density and efficiency.
 
-I explore converter topologies that are economical, efficient, retrofit‑friendly with existing architectures, and inherently minimize side‑effect generation. In the realm of side effects, my focus lies in high‑fidelity, reduced‑order modeling that accurately captures system behavior within targeted frequency ranges and on packaging architectures that minimize side‑effect interactions while meeting mechanical and thermal constraints.
+I explore converter topologies that are economical, efficient, retrofit‑friendly with existing control architectures, and inherently minimize side‑effect generation. In the realm of side effects, my focus lies in high‑fidelity, reduced‑order modeling that accurately captures system behavior within targeted frequency ranges and on packaging architectures that minimize side‑effect interactions while meeting mechanical and thermal constraints.
 
 See my [research](https://abdulbasitmirza.github.io/research/) and [publications](https://abdulbasitmirza.github.io/publications/).
 
