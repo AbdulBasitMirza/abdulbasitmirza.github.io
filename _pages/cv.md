@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-See the full PDF version [here](/files/Abdul_Basit_Mirza_CV.pdf).
+See the full PDF version (last updated: February 2026) [here](/files/Abdul_Basit_Mirza_CV.pdf).
 {% include base_path %}
 
 Education
