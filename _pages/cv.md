@@ -45,7 +45,7 @@ Work & Research Experience
   * Integration Methods for High-Density Integrated Electric Drives
     * Developed a slit-based PCB terminal for high bandwidth current-sensing.
 * January 2020 – August 2020: Graduate Research Assistant <br> 
-  Power Technology Research, Munich - Germany	(remote work)
+  University of Arkansas, Fayetteville, AR, USA
   * Grid-Integrable Medium-Voltage Hybrid DC Circuit Breaker (HCB)
     * Designed a novel integrated E-Core magnetic structure with zero magnetic bias in normal operation.
 * March 2019 – December 2019: Site Engineer <br> 
@@ -55,7 +55,7 @@ Work & Research Experience
     * Sampling and material inspection on-site.
     * Managed quality control and safety issues on-site, ensuring compliance with technical designs and drawings.
 * September 2018 – February 2019: Research Analyst – Transmission and Distribution Systems  <br> 
-  University of Arkansas, Fayetteville, AR, USA
+  Power Technology Research, Munich - Germany	(remote work)
   * Distribution Transformers
     * Developed a cost model for induction-based Distribution and Power transformers.
 
